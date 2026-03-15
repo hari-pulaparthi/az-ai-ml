@@ -1,0 +1,4 @@
+2026-03-15 14:44:58,853 - Called function: add with args: (5, 3) and kwargs: {}
+2026-03-15 14:44:58,853 - Function add returned: 8
+2026-03-15 14:44:58,854 - Called function: multiply with args: (4, 7) and kwargs: {}
+2026-03-15 14:44:58,854 - Function multiply returned: 28
